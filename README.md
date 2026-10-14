@@ -49,8 +49,8 @@ diwali-sales-analysis/
 
 ## How to run
 ```bash
-git clone https://github.com/noopurrr/diwali-sales-analysis.git
-cd diwali-sales-analysis
+git clone https://github.com/noopurrr/diwali-sales-analysis-python-practice.git
+cd diwali-sales-analysis-python-practice
 pip install -r requirements.txt
 jupyter notebook notebooks/sales_analysis.ipynb
 ```
