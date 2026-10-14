@@ -10,7 +10,7 @@ Exploratory data analysis (EDA) in Python on Diwali retail sales data. Cleans th
 ## Dataset
 - File: `data/Diwali_Sales_Data.csv` (11,251 rows, 15 columns)
 - Columns include customer gender, age group, marital status, state, zone, occupation, product category, orders, and amount.
-- Source: public Kaggle dataset "Diwali Sales Data" (add the exact link here).
+- Source: [public Kaggle dataset "Diwali Sales Data"](https://bit.ly/413nJT0 ).
 
 ## What I did
 1. **Inspected** the data: shape, types, missing values.
