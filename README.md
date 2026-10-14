@@ -39,7 +39,7 @@ Exploratory data analysis (EDA) in Python on Diwali retail sales data. Cleans th
 
 ## Project structure
 ```
-diwali-sales-analysis/
+diwali-sales-analysis-python-practice/
 ├── data/Diwali_Sales_Data.csv
 ├── notebooks/sales_analysis.ipynb
 ├── images/
